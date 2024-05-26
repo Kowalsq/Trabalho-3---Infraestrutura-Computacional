@@ -1,0 +1,7 @@
+#Import file and print text
+
+import sys
+nome_arq = sys.argv[1]
+arq_handle = open(nome_arq)
+texto = arq_handle.read()
+print(texto)
