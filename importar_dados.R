@@ -1,3 +1,5 @@
+# Comentário aleatório
+
 importar_dados <- function() {
   dados <- mtcars
   return(dados)
