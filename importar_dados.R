@@ -4,3 +4,4 @@ importar_dados <- function() {
 }
 
 dados <- importar_dados()
+#anotacao importante
